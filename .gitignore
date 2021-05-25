@@ -1,0 +1,6 @@
+# Project exclude paths
+/enums/gender.js
+/models/delegate.js
+/models/group.js
+/models/rada.js
+/homework.js
